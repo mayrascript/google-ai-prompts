@@ -1,7 +1,7 @@
 # google-ai-prompts
 Utiliza éste repo, para guiarte de los prompts creados en la demo.
 
-## Prompt 1:
+## Prompt 1 - Landing Page:
 
 ```
 # Create a Premium Real Estate Landing Page
@@ -165,7 +165,7 @@ Add AI-inspired premium touches:
 Generate realistic placeholder content and images so the landing page looks like a real business ready for demonstration.
 ```
 
-## Prompt 2
+## Prompt 2 - Google Workspace integration
 
 ```
 # AI Chief of Staff (MVP)
@@ -223,7 +223,7 @@ You must be able to answer questions such as:
 * What am I forgetting?
 ```
 
-## Prompt 3
+## Prompt 3 - Firebase integration
 
 ```
 # AI Social Media Content Studio
